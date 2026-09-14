@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "Chade Liamidi — Frontend Web Developer",
+    "title": "Chade Liamidi - Frontend Web Developer",
     "description": "Portfolio of Chade Liamidi, Frontend Web Developer specialized in Next.js, TypeScript and Tailwind CSS, based in Cotonou, Benin."
   },
   "nav": {
@@ -17,7 +17,7 @@
   "hero": {
     "eyebrow": "Frontend Web Developer",
     "greeting": "Hi, I'm",
-    "tagline": "I turn designs into fast, accessible, well-architected interfaces — Next.js, TypeScript and Tailwind CSS, every day.",
+    "tagline": "I turn designs into fast, accessible, well-architected interfaces. I use Next.js, TypeScript and Tailwind CSS, every day.",
     "ctaProjects": "See my projects",
     "ctaCv": "Download my CV",
     "location": "Cotonou, Benin · Abidjan, Côte d'Ivoire",
@@ -76,7 +76,7 @@
   "portfolio": {
     "title": "Portfolio",
     "kicker": "Recent projects",
-    "intro": "A preview of my recent projects — find them all, with full detail, on the dedicated page.",
+    "intro": "A preview of my recent projects - find them all, with full detail, on the dedicated page.",
     "viewProject": "View project",
     "seeDetails": "See details",
     "close": "Close",
@@ -85,7 +85,7 @@
     "allProjectsCta": "See all my projects",
     "pageTitle": "All my projects",
     "pageKicker": "Full portfolio",
-    "pageIntro": "Every project, filterable by type of work — click a card to see the detail.",
+    "pageIntro": "Every project, filterable by type of work - click a card to see the detail.",
     "backHome": "Back to home",
     "filters": {
       "all": "All",
@@ -96,7 +96,7 @@
     "emptyFiltered": "No project in this category yet.",
     "projects": {
       "pentestad": {
-        "title": "PentestAD — AVALON SECURE",
+        "title": "PentestAD - AVALON SECURE",
         "description": "Authorized Active Directory pentesting dashboard. Frontend integration, refactoring a Figma-generated UI into a multi-file SOLID architecture with custom hooks and a mock/API fallback.",
         "highlights": [
           "Frontend integration from Figma mockups",
@@ -124,7 +124,7 @@
         ]
       },
       "hopeful-portfolio": {
-        "title": "Portfolio — Hopeful Dossou",
+        "title": "Portfolio - Hopeful Dossou",
         "description": "Freelance portfolio built in Next.js from the client's provided mockup, with a Notion-connected interface so he can manage his own content.",
         "highlights": [
           "Pixel-perfect integration of the client's mockup",
@@ -134,7 +134,7 @@
         ]
       },
       "avalon-secure-site": {
-        "title": "Avalon Secure — Showcase site",
+        "title": "Avalon Secure - Showcase site",
         "description": "WordPress showcase site for Avalon Secure, an IT services company, built in close collaboration with their team.",
         "highlights": [
           "Built the showcase site in WordPress",
@@ -142,7 +142,7 @@
         ]
       },
       "prepaexams": {
-        "title": "PrepaExams — ESGIS",
+        "title": "PrepaExams - ESGIS",
         "description": "Platform giving students access to digitized, downloadable past exams to prepare for their tests, built with Laravel.",
         "highlights": [
           "Built the platform with Laravel",
@@ -150,7 +150,7 @@
         ]
       },
       "libre-comme-lere": {
-        "title": "Libre comme l'Ère — NGO site",
+        "title": "Libre comme l'Ère - NGO site",
         "description": "WordPress site for the NGO Libre comme l'Ère, built from the client's brief and brand guidelines, copy included, delivered in 2 days.",
         "highlights": [
           "Built to match the client's brief and brand guidelines",
@@ -159,7 +159,7 @@
         ]
       },
       "la-signature": {
-        "title": "La Signature — Restaurant redesign",
+        "title": "La Signature - Restaurant redesign",
         "description": "Redesign of the La Signature restaurant site: new sections optimized for the client's supplied visuals, with a gold-on-black art direction set by the restaurant's brand.",
         "highlights": [
           "Replaced visuals and created new sections optimized to showcase them",
@@ -167,7 +167,7 @@
         ]
       },
       "digiword-refonte": {
-        "title": "Internal redesigns — Digiword",
+        "title": "Internal redesigns - Digiword",
         "description": "Redesigned several of Digiword's internal sites (including lemeilleurdu.digital and digiword.fr), among 20+ sites delivered during this period.",
         "highlights": [
           "Redesigned lemeilleurdu.digital and digiword.fr with Elementor and WPBakery",
@@ -175,7 +175,7 @@
         ]
       },
       "dinero": {
-        "title": "Dinero Technologies — Redesign",
+        "title": "Dinero Technologies - Redesign",
         "description": "Redesign of the Dinero Technologies showcase site, an IT services company: the original site was slow and unappealing, rebuilt entirely in Next.js.",
         "highlights": [
           "Original site was slow and unappealing, rebuilt from scratch",
@@ -183,7 +183,7 @@
         ]
       },
       "seed-billetterie": {
-        "title": "Online ticketing — Seed Sarl",
+        "title": "Online ticketing - Seed Sarl",
         "description": "Online ticketing platform built independently with Laravel as my final-year project, including payment API integration.",
         "highlights": [
           "Independent fullstack development with Laravel",
@@ -192,7 +192,7 @@
         ]
       },
       "food-truck": {
-        "title": "Food truck redesign — Digiword",
+        "title": "Food truck redesign - Digiword",
         "description": "WordPress redesign of a food truck site, highlighting the story and world of mobile street food.",
         "highlights": [
           "Full WordPress redesign of the site",
@@ -200,7 +200,7 @@
         ]
       },
       "bella-storia": {
-        "title": "Bella Storia — Restaurant redesign",
+        "title": "Bella Storia - Restaurant redesign",
         "description": "Redesign of the Bella Storia Italian restaurant site (Cannes), with a sober, elegant layout true to the venue's identity.",
         "highlights": [
           "WordPress redesign of the Bella Storia Italian restaurant site",
@@ -217,7 +217,7 @@
       "sinedev": {
         "role": "Frontend & WordPress Developer (Remote)",
         "company": "SineDev (remote)",
-        "period": "Dec. 2025 — Jul. 2026",
+        "period": "Dec. 2025 - Jul. 2026",
         "highlights": [
           "Designed and maintained WordPress sites for several clients, tailoring each solution to their specific needs and business context.",
           "Applied SEO best practices (Yoast) to improve organic visibility, including a rental platform (apartments/vehicles) and a professional portfolio site.",
@@ -227,7 +227,7 @@
       "digiword": {
         "role": "WordPress Developer",
         "company": "Digiword",
-        "period": "Jan. 2025 — Sept. 2025",
+        "period": "Jan. 2025 - Sept. 2025",
         "description": "Built 20+ showcase websites, SEO optimization and social media management.",
         "highlights": [
           "Designed, built and delivered 20+ WordPress sites (showcase and e-commerce) end-to-end.",
@@ -238,7 +238,7 @@
       "byteinnov": {
         "role": "Frontend Developer",
         "company": "Byteinnov IT",
-        "period": "Jul. 2024 — Jan. 2025",
+        "period": "Jul. 2024 - Jan. 2025",
         "description": "Large-scale SaaS project: learned Next.js (now my main stack), Docker, Scrum methodology, API integration and testing.",
         "highlights": [
           "Built interfaces for a SaaS product in Next.js and Tailwind CSS, establishing Next.js as the main frontend framework.",
@@ -250,7 +250,7 @@
       "seed": {
         "role": "Fullstack Developer (internship)",
         "company": "Seed Sarl",
-        "period": "Apr. 2024 — Jun. 2024",
+        "period": "Apr. 2024 - Jun. 2024",
         "description": "Ticketing solution built with Laravel and requirements specification writing.",
         "highlights": [
           "Self-taught Laravel to independently build a complete online ticketing platform.",
@@ -265,17 +265,17 @@
     "kicker": "What shaped me",
     "formationLabel": "Education",
     "certificationLabel": "Certifications",
-    "certificationsEmpty": "No certifications to show yet — this section will be updated once an official certification is earned.",
+    "certificationsEmpty": "No certifications to show yet - this section will be updated once an official certification is earned.",
     "items": {
       "esgis": {
         "title": "Professional Bachelor's in Software Architecture",
         "institution": "ESGIS Benin",
-        "period": "2021 — 2024"
+        "period": "2021 - 2024"
       },
       "socioanimer": {
         "title": "Digital Marketing Training",
         "institution": "Socioanimer",
-        "period": "June 2025 — present"
+        "period": "June 2025 - present"
       }
     }
   },
@@ -285,7 +285,7 @@
     "items": {
       "french": {
         "label": "French",
-        "level": "Native"
+        "level": "Native language"
       },
       "yoruba": {
         "label": "Yoruba",
@@ -304,7 +304,7 @@
   "contact": {
     "title": "Contact",
     "kicker": "Let's talk",
-    "intro": "A frontend project, a WordPress redesign, or a Figma collaboration? Reach out — I reply quickly.",
+    "intro": "A frontend project, a WordPress redesign, or a Figma collaboration? Reach out - I reply quickly.",
     "formName": "Name",
     "formEmail": "Email",
     "formMessage": "Message",
@@ -335,11 +335,11 @@
     "items": {
       "fullstack": {
         "title": "Frontend & Fullstack development",
-        "description": "High-performing interfaces in React and Next.js, building and integrating REST APIs, clean code architecture — from pure frontend to backend when the project needs it."
+        "description": "High-performing interfaces in React and Next.js, building and integrating REST APIs, clean code architecture - from pure frontend to backend when the project needs it."
       },
       "wordpress-express": {
         "title": "Express WordPress",
-        "description": "My specialty: delivering a complete WordPress site — showcase or e-commerce — in 2 days, with SEO optimization built in from the start."
+        "description": "My specialty: delivering a complete WordPress site - showcase or e-commerce - in 2 days, with SEO optimization built in from the start."
       },
       "seo-performance": {
         "title": "SEO & performance",

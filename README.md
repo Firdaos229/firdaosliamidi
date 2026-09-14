@@ -1,4 +1,4 @@
-# Portfolio — Chade Liamidi
+# Portfolio - Chade Liamidi
 
 Portfolio professionnel de développeuse Web Frontend, construit avec Next.js (App Router),
 TypeScript strict et Tailwind CSS v4, en respectant les principes SOLID.
@@ -8,9 +8,9 @@ TypeScript strict et Tailwind CSS v4, en respectant les principes SOLID.
 - **Next.js 16** (App Router, rendu statique)
 - **TypeScript** strict
 - **Tailwind CSS v4** (tokens de thème définis dans `app/globals.css`)
-- **next-themes** — mode sombre/clair persistant
-- **framer-motion** — animations légères (entrée du Hero, barres de progression)
-- **lucide-react** — icônes de la sidebar et des sections
+- **next-themes** - mode sombre/clair persistant
+- **framer-motion** - animations légères (entrée du Hero, barres de progression)
+- **lucide-react** - icônes de la sidebar et des sections
 
 ## Démarrer en local
 
@@ -43,7 +43,7 @@ components/sections/ Une section = un fichier (Hero, Skills, Portfolio, Experien
 context/             Providers (thème, langue)
 hooks/               Logique métier réutilisable (scrollspy, formulaire de contact, i18n)
 data/                Contenu structuré non traduisible (listes, niveaux, tags)
-locales/             Traductions FR/EN — tout le texte affiché passe par ces fichiers
+locales/             Traductions FR/EN - tout le texte affiché passe par ces fichiers
 types/               Types TypeScript centralisés
 public/images/       Visuels (avatar + mockups projets en SVG, à remplacer par de vrais visuels)
 public/cv/           CV téléchargeable (à remplacer par ton vrai CV)

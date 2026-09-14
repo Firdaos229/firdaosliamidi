@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "Chade Liamidi — Développeuse Web Frontend",
+    "title": "Chade Liamidi - Développeuse Web Frontend",
     "description": "Portfolio de Chade Liamidi, développeuse Web Frontend spécialisée Next.js, TypeScript et Tailwind CSS, basée à Cotonou, Bénin."
   },
   "nav": {
@@ -17,7 +17,7 @@
   "hero": {
     "eyebrow": "Développeuse Web Frontend",
     "greeting": "Salut, moi c'est",
-    "tagline": "Je transforme des maquettes en interfaces rapides, accessibles et bien architecturées — Next.js, TypeScript et Tailwind CSS au quotidien.",
+    "tagline": "Je transforme des maquettes en interfaces rapides, accessibles et bien architecturées. J'utilise Next.js, TypeScript et Tailwind CSS au quotidien.",
     "ctaProjects": "Voir mes projets",
     "ctaCv": "Télécharger mon CV",
     "location": "Cotonou, Bénin · Abidjan, Côte d'Ivoire",
@@ -76,7 +76,7 @@
   "portfolio": {
     "title": "Portfolio",
     "kicker": "Projets récents",
-    "intro": "Un aperçu de mes projets récents — retrouve-les tous, avec le détail de chacun, sur la page dédiée.",
+    "intro": "Un aperçu de mes projets récents - retrouve-les tous, avec le détail de chacun, sur la page dédiée.",
     "viewProject": "Voir le projet",
     "seeDetails": "Voir le détail",
     "close": "Fermer",
@@ -85,7 +85,7 @@
     "allProjectsCta": "Voir tous mes projets",
     "pageTitle": "Tous mes projets",
     "pageKicker": "Portfolio complet",
-    "pageIntro": "Chaque projet, filtrable par type de mission — clique sur une carte pour voir le détail.",
+    "pageIntro": "Chaque projet, filtrable par type de mission - clique sur une carte pour voir le détail.",
     "backHome": "Retour à l'accueil",
     "filters": {
       "all": "Tous",
@@ -96,7 +96,7 @@
     "emptyFiltered": "Aucun projet dans cette catégorie pour le moment.",
     "projects": {
       "pentestad": {
-        "title": "PentestAD — AVALON SECURE",
+        "title": "PentestAD - AVALON SECURE",
         "description": "Dashboard de pentest Active Directory autorisé. Intégration frontend et refactorisation d'une interface générée par Figma en une architecture SOLID multi-fichiers, avec hooks personnalisés et bascule mock/API.",
         "highlights": [
           "Intégration frontend à partir des maquettes Figma",
@@ -124,7 +124,7 @@
         ]
       },
       "hopeful-portfolio": {
-        "title": "Portfolio — Hopeful Dossou",
+        "title": "Portfolio - Hopeful Dossou",
         "description": "Portfolio freelance développé en Next.js à partir de la maquette fournie par le client, avec une interface connectée à Notion pour qu'il puisse gérer lui-même son contenu.",
         "highlights": [
           "Intégration pixel-perfect de la maquette fournie par le client",
@@ -134,7 +134,7 @@
         ]
       },
       "avalon-secure-site": {
-        "title": "Avalon Secure — Site vitrine",
+        "title": "Avalon Secure - Site vitrine",
         "description": "Site vitrine WordPress pour Avalon Secure, entreprise de services informatiques, développé en étroite collaboration avec leur équipe.",
         "highlights": [
           "Développement du site vitrine en WordPress",
@@ -142,7 +142,7 @@
         ]
       },
       "prepaexams": {
-        "title": "PrepaExams — ESGIS",
+        "title": "PrepaExams - ESGIS",
         "description": "Plateforme permettant aux étudiants d'accéder à des épreuves numérisées et téléchargeables pour préparer leurs examens, développée en Laravel.",
         "highlights": [
           "Développement de la plateforme avec Laravel",
@@ -150,7 +150,7 @@
         ]
       },
       "libre-comme-lere": {
-        "title": "Libre comme l'Ère — Site ONG",
+        "title": "Libre comme l'Ère - Site ONG",
         "description": "Site WordPress pour l'ONG Libre comme l'Ère, réalisé à partir du cahier des charges et de la charte graphique fournis par le client, textes compris, livré en 2 jours.",
         "highlights": [
           "Site construit en respectant le cahier des charges et la charte graphique du client",
@@ -159,7 +159,7 @@
         ]
       },
       "la-signature": {
-        "title": "La Signature — Refonte restaurant",
+        "title": "La Signature - Refonte restaurant",
         "description": "Refonte du site du restaurant La Signature : nouvelles sections optimisées pour les visuels fournis par le client, direction artistique dorée sur fond noir imposée par la charte du restaurant.",
         "highlights": [
           "Remplacement des visuels et création de nouvelles sections optimisées pour les accueillir",
@@ -167,7 +167,7 @@
         ]
       },
       "digiword-refonte": {
-        "title": "Refontes internes — Digiword",
+        "title": "Refontes internes - Digiword",
         "description": "Refonte de plusieurs sites internes de l'agence Digiword (dont lemeilleurdu.digital et digiword.fr), parmi plus de 20 sites livrés pendant cette période.",
         "highlights": [
           "Refonte de lemeilleurdu.digital et digiword.fr avec Elementor et WPBakery",
@@ -175,7 +175,7 @@
         ]
       },
       "dinero": {
-        "title": "Dinero Technologies — Refonte",
+        "title": "Dinero Technologies - Refonte",
         "description": "Refonte du site vitrine de Dinero Technologies, entreprise de services informatiques : le site d'origine était lent et peu attractif, entièrement reconstruit en Next.js.",
         "highlights": [
           "Site d'origine lent et peu attractif, entièrement reconstruit",
@@ -183,7 +183,7 @@
         ]
       },
       "seed-billetterie": {
-        "title": "Billetterie en ligne — Seed Sarl",
+        "title": "Billetterie en ligne - Seed Sarl",
         "description": "Plateforme de billetterie en ligne développée en autonomie avec Laravel dans le cadre de mon projet de fin d'études, intégrant des API de paiement.",
         "highlights": [
           "Développement fullstack en autonomie avec Laravel",
@@ -192,7 +192,7 @@
         ]
       },
       "food-truck": {
-        "title": "Refonte food truck — Digiword",
+        "title": "Refonte food truck - Digiword",
         "description": "Refonte WordPress d'un site de food truck, mettant en avant l'histoire et l'univers de la restauration mobile.",
         "highlights": [
           "Refonte complète du site en WordPress",
@@ -200,7 +200,7 @@
         ]
       },
       "bella-storia": {
-        "title": "Bella Storia — Refonte restaurant",
+        "title": "Bella Storia - Refonte restaurant",
         "description": "Refonte du site du restaurant italien Bella Storia (Cannes), avec une mise en page sobre et élégante fidèle à l'identité du lieu.",
         "highlights": [
           "Refonte WordPress du site du restaurant italien Bella Storia",
@@ -217,7 +217,7 @@
       "sinedev": {
         "role": "Développeuse Frontend & WordPress (Remote)",
         "company": "SineDev (remote)",
-        "period": "Déc. 2025 — Juil. 2026",
+        "period": "Déc. 2025 - Juil. 2026",
         "highlights": [
           "Conception et maintenance de sites WordPress pour plusieurs clients, en adaptant chaque solution aux besoins spécifiques et au contexte métier.",
           "Application de bonnes pratiques SEO (Yoast) pour améliorer la visibilité organique, dont une plateforme de location d'appartements/véhicules et un site portfolio professionnel.",
@@ -227,7 +227,7 @@
       "digiword": {
         "role": "Développeuse WordPress",
         "company": "Digiword",
-        "period": "Jan. 2025 — Sept. 2025",
+        "period": "Jan. 2025 - Sept. 2025",
         "description": "Création de plus de 20 sites vitrines, optimisation SEO et gestion des réseaux sociaux.",
         "highlights": [
           "Conception, développement et livraison de plus de 20 sites WordPress (vitrines et e-commerce) de bout en bout.",
@@ -238,7 +238,7 @@
       "byteinnov": {
         "role": "Développeuse Frontend",
         "company": "Byteinnov IT",
-        "period": "Juil. 2024 — Jan. 2025",
+        "period": "Juil. 2024 - Jan. 2025",
         "description": "Projet SaaS de grande envergure : apprentissage de Next.js (stack principale actuelle), Docker, méthodologie Scrum, intégration et tests d'API.",
         "highlights": [
           "Développement d'interfaces pour un produit SaaS en Next.js et Tailwind CSS, adoption de Next.js comme framework frontend principal.",
@@ -250,7 +250,7 @@
       "seed": {
         "role": "Développeuse Fullstack (stage)",
         "company": "Seed Sarl",
-        "period": "Avr. 2024 — Juin 2024",
+        "period": "Avr. 2024 - Juin 2024",
         "description": "Solution de billetterie en Laravel et rédaction du cahier des charges.",
         "highlights": [
           "Auto-formation en Laravel pour développer de façon autonome une plateforme complète de billetterie en ligne.",
@@ -265,17 +265,17 @@
     "kicker": "Ce qui m'a formée",
     "formationLabel": "Formation",
     "certificationLabel": "Certifications",
-    "certificationsEmpty": "Aucune certification à afficher pour le moment — section mise à jour dès l'obtention d'une certification officielle.",
+    "certificationsEmpty": "Aucune certification à afficher pour le moment - section mise à jour dès l'obtention d'une certification officielle.",
     "items": {
       "esgis": {
         "title": "Licence Professionnelle Architecture des Logiciels",
         "institution": "ESGIS Bénin",
-        "period": "2021 — 2024"
+        "period": "2021 - 2024"
       },
       "socioanimer": {
         "title": "Formation en Marketing numérique",
         "institution": "Socioanimer",
-        "period": "Juin 2025 — présent"
+        "period": "Juin 2025 - présent"
       }
     }
   },
@@ -285,7 +285,7 @@
     "items": {
       "french": {
         "label": "Français",
-        "level": "Langue natale"
+        "level": "Langue maternelle"
       },
       "yoruba": {
         "label": "Yoruba",
@@ -335,11 +335,11 @@
     "items": {
       "fullstack": {
         "title": "Développement Frontend & Fullstack",
-        "description": "Interfaces performantes en React et Next.js, création et intégration d'API REST, architecture de code propre — du frontend jusqu'au backend quand le projet le demande."
+        "description": "Interfaces performantes en React et Next.js, création et intégration d'API REST, architecture de code propre - du frontend jusqu'au backend quand le projet le demande."
       },
       "wordpress-express": {
         "title": "WordPress express",
-        "description": "Ma spécialité : livrer un site WordPress complet — vitrine ou e-commerce — en 2 jours, avec l'optimisation SEO incluse dès la conception."
+        "description": "Ma spécialité : livrer un site WordPress complet - vitrine ou e-commerce - en 2 jours, avec l'optimisation SEO incluse dès la conception."
       },
       "seo-performance": {
         "title": "SEO & performance",
