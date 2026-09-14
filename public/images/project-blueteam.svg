@@ -1,0 +1,48 @@
+<svg viewBox="0 0 640 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="blueBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B1120" />
+      <stop offset="100%" stop-color="#05070D" />
+    </linearGradient>
+    <linearGradient id="blueAccent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3B82F6" />
+      <stop offset="100%" stop-color="#22D3EE" />
+    </linearGradient>
+  </defs>
+  <rect width="640" height="400" fill="url(#blueBg)" />
+
+  <rect x="0" y="0" width="640" height="36" fill="#0B1120" />
+  <circle cx="20" cy="18" r="5" fill="#8B5CF6" opacity="0.7" />
+  <circle cx="38" cy="18" r="5" fill="#22D3EE" opacity="0.7" />
+  <circle cx="56" cy="18" r="5" fill="#3B82F6" opacity="0.7" />
+
+  <!-- En-tête d'article -->
+  <rect x="60" y="66" width="240" height="16" rx="6" fill="url(#blueAccent)" opacity="0.9" />
+  <rect x="60" y="94" width="380" height="10" rx="5" fill="#94A3B8" opacity="0.7" />
+  <rect x="60" y="112" width="320" height="10" rx="5" fill="#94A3B8" opacity="0.5" />
+
+  <!-- Grille de cartes type Notion/blog -->
+  <g>
+    <rect x="60" y="150" width="170" height="130" rx="12" fill="#0F1626" stroke="#1E293B" />
+    <rect x="76" y="166" width="138" height="60" rx="8" fill="url(#blueAccent)" opacity="0.3" />
+    <rect x="76" y="236" width="100" height="8" rx="4" fill="#94A3B8" />
+    <rect x="76" y="252" width="70" height="8" rx="4" fill="#4B5A73" />
+  </g>
+  <g>
+    <rect x="248" y="150" width="170" height="130" rx="12" fill="#0F1626" stroke="#1E293B" />
+    <rect x="264" y="166" width="138" height="60" rx="8" fill="#8B5CF6" opacity="0.3" />
+    <rect x="264" y="236" width="110" height="8" rx="4" fill="#94A3B8" />
+    <rect x="264" y="252" width="60" height="8" rx="4" fill="#4B5A73" />
+  </g>
+  <g>
+    <rect x="436" y="150" width="144" height="130" rx="12" fill="#0F1626" stroke="#1E293B" />
+    <rect x="452" y="166" width="112" height="60" rx="8" fill="#22D3EE" opacity="0.3" />
+    <rect x="452" y="236" width="90" height="8" rx="4" fill="#94A3B8" />
+    <rect x="452" y="252" width="60" height="8" rx="4" fill="#4B5A73" />
+  </g>
+
+  <!-- Bandeau tags -->
+  <rect x="60" y="312" width="70" height="22" rx="11" fill="#0F1626" stroke="#243047" />
+  <rect x="140" y="312" width="90" height="22" rx="11" fill="#0F1626" stroke="#243047" />
+  <rect x="240" y="312" width="60" height="22" rx="11" fill="#0F1626" stroke="#243047" />
+</svg>

@@ -1,0 +1,35 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="ogBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#05070D" />
+      <stop offset="100%" stop-color="#0B1120" />
+    </linearGradient>
+    <linearGradient id="ogText" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3B82F6" />
+      <stop offset="100%" stop-color="#22D3EE" />
+    </linearGradient>
+    <radialGradient id="ogGlowCyan" cx="15%" cy="10%" r="45%">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.35" />
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="ogGlowViolet" cx="90%" cy="95%" r="45%">
+      <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#ogBg)" />
+  <rect width="1200" height="630" fill="url(#ogGlowCyan)" />
+  <rect width="1200" height="630" fill="url(#ogGlowViolet)" />
+
+  <text x="90" y="270" font-family="Arial, sans-serif" font-size="72" font-weight="700" fill="#E7ECF5">
+    Chade <tspan fill="url(#ogText)">Liamidi</tspan>
+  </text>
+  <text x="90" y="330" font-family="Arial, sans-serif" font-size="34" fill="#94A3B8">
+    Développeuse Web Frontend — Next.js · TypeScript · Tailwind CSS
+  </text>
+
+  <g transform="translate(90,400)">
+    <rect width="230" height="52" rx="26" fill="none" stroke="#1E293B" stroke-width="1.5" />
+    <text x="115" y="34" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#E7ECF5">Cotonou, Bénin</text>
+  </g>
+</svg>

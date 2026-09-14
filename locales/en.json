@@ -1,0 +1,354 @@
+{
+  "meta": {
+    "title": "Chade Liamidi — Frontend Web Developer",
+    "description": "Portfolio of Chade Liamidi, Frontend Web Developer specialized in Next.js, TypeScript and Tailwind CSS, based in Cotonou, Benin."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "skills": "Skills",
+    "portfolio": "Portfolio",
+    "experience": "Experience",
+    "education": "Education",
+    "languages": "Languages",
+    "contact": "Contact",
+    "services": "Services"
+  },
+  "hero": {
+    "eyebrow": "Frontend Web Developer",
+    "greeting": "Hi, I'm",
+    "tagline": "I turn designs into fast, accessible, well-architected interfaces — Next.js, TypeScript and Tailwind CSS, every day.",
+    "ctaProjects": "See my projects",
+    "ctaCv": "Download my CV",
+    "location": "Cotonou, Benin · Abidjan, Côte d'Ivoire",
+    "tag": "Available for new opportunities"
+  },
+  "about": {
+    "title": "About",
+    "kicker": "Who I am",
+    "stats": {
+      "years": "Years of experience",
+      "sites": "Projects delivered",
+      "stack": "Main stack"
+    },
+    "quote": "They often say a good product creates a sale, but only a good leader builds a company.",
+    "paragraphs": [
+      "I'm Firdaos, a user-centered digital solutions designer, and my strength is turning a complex idea into a concrete, high-performing, scalable product. For over 3 years, I've been building web architectures from Next.js to Laravel, with one obsession: technical rigor, SEO optimization and performance. I've designed and delivered more than 20 custom solutions for clients with very different needs.",
+      "I've pushed this engineering mindset all the way into the physical world. To challenge myself, I created Firdart, a fashion-accessories brand where I automated the entire digital infrastructure to sell and ship to 4 countries in its first year.",
+      "Whether it's coding a complex ticketing platform in full autonomy or optimizing the customer journey of a high-traffic site, I don't just ship code: I design business solutions that adapt to your stack and your users. If you're looking for a versatile, rigorous collaborator who can learn any technology to get your projects off the ground, we should work together."
+    ]
+  },
+  "skills": {
+    "title": "Skills",
+    "kicker": "What I work with",
+    "intro": "A modern frontend foundation, complemented by CMS, SEO and project-management tools learned on the field.",
+    "categories": {
+      "frontend": "Frontend",
+      "backend-cms": "Backend & CMS",
+      "outils": "Tools",
+      "autres": "Other"
+    },
+    "items": {
+      "javascript": "JavaScript",
+      "typescript": "TypeScript",
+      "html": "HTML",
+      "css": "CSS",
+      "tailwind": "Tailwind CSS",
+      "react": "React",
+      "nextjs": "Next.js",
+      "laravel": "Laravel",
+      "wordpress": "WordPress",
+      "elementor": "Elementor",
+      "wpbakery": "WPBakery",
+      "woocommerce": "WooCommerce",
+      "git": "Git",
+      "gitlab": "GitLab",
+      "docker": "Docker",
+      "scrum": "Scrum",
+      "apiRest": "API integration & testing (REST)",
+      "debug": "Browser debugging",
+      "seoPerf": "SEO & performance optimization",
+      "responsiveDesign": "Responsive design",
+      "photoshop": "Photoshop",
+      "illustrator": "Illustrator"
+    }
+  },
+  "portfolio": {
+    "title": "Portfolio",
+    "kicker": "Recent projects",
+    "intro": "A preview of my recent projects — find them all, with full detail, on the dedicated page.",
+    "viewProject": "View project",
+    "seeDetails": "See details",
+    "close": "Close",
+    "highlightsTitle": "What I built",
+    "toolsTitle": "Tools & technologies",
+    "allProjectsCta": "See all my projects",
+    "pageTitle": "All my projects",
+    "pageKicker": "Full portfolio",
+    "pageIntro": "Every project, filterable by type of work — click a card to see the detail.",
+    "backHome": "Back to home",
+    "filters": {
+      "all": "All",
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "wordpress": "WordPress"
+    },
+    "emptyFiltered": "No project in this category yet.",
+    "projects": {
+      "pentestad": {
+        "title": "PentestAD — AVALON SECURE",
+        "description": "Authorized Active Directory pentesting dashboard. Frontend integration, refactoring a Figma-generated UI into a multi-file SOLID architecture with custom hooks and a mock/API fallback.",
+        "highlights": [
+          "Frontend integration from Figma mockups",
+          "Refactored into a multi-file SOLID architecture with custom hooks",
+          "Mock/API toggle to develop without a backend dependency",
+          "Wrote the frontend technical documentation"
+        ]
+      },
+      "guardian": {
+        "title": "Guardian Cyber Labs",
+        "description": "Cybersecurity training platform. Figma design of the public interface and the admin/learner dashboards, with a dark-navy terminal-inspired art direction.",
+        "highlights": [
+          "Figma design of the public interface",
+          "Design of the admin and learner dashboards",
+          "Dark-navy, terminal-inspired art direction"
+        ]
+      },
+      "blueteam": {
+        "title": "Blue Team / SOC Analyst Portfolio",
+        "description": "Next.js 14 site with Notion as a CMS and incremental static regeneration (ISR), dark cyber aesthetic built for a security profile.",
+        "highlights": [
+          "Integrated Notion as a content CMS",
+          "Incremental static regeneration (ISR) for fast, up-to-date pages",
+          "Dark cyber aesthetic tailored to a security profile"
+        ]
+      },
+      "hopeful-portfolio": {
+        "title": "Portfolio — Hopeful Dossou",
+        "description": "Freelance portfolio built in Next.js from the client's provided mockup, with a Notion-connected interface so he can manage his own content.",
+        "highlights": [
+          "Pixel-perfect integration of the client's mockup",
+          "Connected to Notion as a CMS: the client updates skills and projects without touching code",
+          "Contact form handled with Resend",
+          "Deployed on Vercel"
+        ]
+      },
+      "avalon-secure-site": {
+        "title": "Avalon Secure — Showcase site",
+        "description": "WordPress showcase site for Avalon Secure, an IT services company, built in close collaboration with their team.",
+        "highlights": [
+          "Built the showcase site in WordPress",
+          "Worked closely with the Avalon Secure team, mainly on the frontend"
+        ]
+      },
+      "prepaexams": {
+        "title": "PrepaExams — ESGIS",
+        "description": "Platform giving students access to digitized, downloadable past exams to prepare for their tests, built with Laravel.",
+        "highlights": [
+          "Built the platform with Laravel",
+          "Made digitized, downloadable exams available for every level of study"
+        ]
+      },
+      "libre-comme-lere": {
+        "title": "Libre comme l'Ère — NGO site",
+        "description": "WordPress site for the NGO Libre comme l'Ère, built from the client's brief and brand guidelines, copy included, delivered in 2 days.",
+        "highlights": [
+          "Built to match the client's brief and brand guidelines",
+          "Wrote all site copy (AI-assisted) since the client had no content ready",
+          "Delivered in 2 days, approved by the client"
+        ]
+      },
+      "la-signature": {
+        "title": "La Signature — Restaurant redesign",
+        "description": "Redesign of the La Signature restaurant site: new sections optimized for the client's supplied visuals, with a gold-on-black art direction set by the restaurant's brand.",
+        "highlights": [
+          "Replaced visuals and created new sections optimized to showcase them",
+          "Followed the requested art direction precisely: italic gold headings on a black background"
+        ]
+      },
+      "digiword-refonte": {
+        "title": "Internal redesigns — Digiword",
+        "description": "Redesigned several of Digiword's internal sites (including lemeilleurdu.digital and digiword.fr), among 20+ sites delivered during this period.",
+        "highlights": [
+          "Redesigned lemeilleurdu.digital and digiword.fr with Elementor and WPBakery",
+          "20+ WordPress site redesigns delivered over the period"
+        ]
+      },
+      "dinero": {
+        "title": "Dinero Technologies — Redesign",
+        "description": "Redesign of the Dinero Technologies showcase site, an IT services company: the original site was slow and unappealing, rebuilt entirely in Next.js.",
+        "highlights": [
+          "Original site was slow and unappealing, rebuilt from scratch",
+          "Built with Next.js for better performance"
+        ]
+      },
+      "seed-billetterie": {
+        "title": "Online ticketing — Seed Sarl",
+        "description": "Online ticketing platform built independently with Laravel as my final-year project, including payment API integration.",
+        "highlights": [
+          "Independent fullstack development with Laravel",
+          "Integrated payment APIs for the ticketing system",
+          "Final-year project, built in full autonomy"
+        ]
+      },
+      "food-truck": {
+        "title": "Food truck redesign — Digiword",
+        "description": "WordPress redesign of a food truck site, highlighting the story and world of mobile street food.",
+        "highlights": [
+          "Full WordPress redesign of the site",
+          "Highlighted the editorial content around the food truck world"
+        ]
+      },
+      "bella-storia": {
+        "title": "Bella Storia — Restaurant redesign",
+        "description": "Redesign of the Bella Storia Italian restaurant site (Cannes), with a sober, elegant layout true to the venue's identity.",
+        "highlights": [
+          "WordPress redesign of the Bella Storia Italian restaurant site",
+          "Sober, elegant layout consistent with the restaurant's identity"
+        ]
+      }
+    }
+  },
+  "experience": {
+    "title": "Experience",
+    "kicker": "Professional path",
+    "intro": "Four experiences that took me from fullstack to product frontend, through WordPress and SEO.",
+    "items": {
+      "sinedev": {
+        "role": "Frontend & WordPress Developer (Remote)",
+        "company": "SineDev (remote)",
+        "period": "Dec. 2025 — Jul. 2026",
+        "highlights": [
+          "Designed and maintained WordPress sites for several clients, tailoring each solution to their specific needs and business context.",
+          "Applied SEO best practices (Yoast) to improve organic visibility, including a rental platform (apartments/vehicles) and a professional portfolio site.",
+          "Debugged UI and performance issues across browsers to keep sites fast and reliable."
+        ]
+      },
+      "digiword": {
+        "role": "WordPress Developer",
+        "company": "Digiword",
+        "period": "Jan. 2025 — Sept. 2025",
+        "description": "Built 20+ showcase websites, SEO optimization and social media management.",
+        "highlights": [
+          "Designed, built and delivered 20+ WordPress sites (showcase and e-commerce) end-to-end.",
+          "Optimized on-page SEO and performance, debugged issues on live sites.",
+          "Maintained existing sites and supported social media management."
+        ]
+      },
+      "byteinnov": {
+        "role": "Frontend Developer",
+        "company": "Byteinnov IT",
+        "period": "Jul. 2024 — Jan. 2025",
+        "description": "Large-scale SaaS project: learned Next.js (now my main stack), Docker, Scrum methodology, API integration and testing.",
+        "highlights": [
+          "Built interfaces for a SaaS product in Next.js and Tailwind CSS, establishing Next.js as the main frontend framework.",
+          "Integrated and tested REST APIs, improved UX/UI consistency across the platform.",
+          "Collaborated in a Scrum team using GitLab for versioning and Docker for local development environments.",
+          "Organized and refactored code for better readability, structure and performance; implemented SEO best practices at the metadata level."
+        ]
+      },
+      "seed": {
+        "role": "Fullstack Developer (internship)",
+        "company": "Seed Sarl",
+        "period": "Apr. 2024 — Jun. 2024",
+        "description": "Ticketing solution built with Laravel and requirements specification writing.",
+        "highlights": [
+          "Self-taught Laravel to independently build a complete online ticketing platform.",
+          "Integrated payment APIs for the ticketing system.",
+          "Wrote the client requirements specification and built knowledge of Benin's digital regulations."
+        ]
+      }
+    }
+  },
+  "education": {
+    "title": "Education & certifications",
+    "kicker": "What shaped me",
+    "formationLabel": "Education",
+    "certificationLabel": "Certifications",
+    "certificationsEmpty": "No certifications to show yet — this section will be updated once an official certification is earned.",
+    "items": {
+      "esgis": {
+        "title": "Professional Bachelor's in Software Architecture",
+        "institution": "ESGIS Benin",
+        "period": "2021 — 2024"
+      },
+      "socioanimer": {
+        "title": "Digital Marketing Training",
+        "institution": "Socioanimer",
+        "period": "June 2025 — present"
+      }
+    }
+  },
+  "languages": {
+    "title": "Languages",
+    "kicker": "Communication",
+    "items": {
+      "french": {
+        "label": "French",
+        "level": "Native"
+      },
+      "yoruba": {
+        "label": "Yoruba",
+        "level": "Native language"
+      },
+      "fon": {
+        "label": "Fon",
+        "level": "Fluent"
+      },
+      "english": {
+        "label": "English",
+        "level": "Junior level"
+      }
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "kicker": "Let's talk",
+    "intro": "A frontend project, a WordPress redesign, or a Figma collaboration? Reach out — I reply quickly.",
+    "formName": "Name",
+    "formEmail": "Email",
+    "formMessage": "Message",
+    "formSubmit": "Send message",
+    "formNote": "This form opens your mail client with the message pre-filled.",
+    "directTitle": "Direct contact"
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "builtWith": "Designed and built with Next.js, TypeScript and Tailwind CSS."
+  },
+  "theme": {
+    "toggleToLight": "Switch to light theme",
+    "toggleToDark": "Switch to dark theme"
+  },
+  "language": {
+    "toggle": "Switch language"
+  },
+  "a11y": {
+    "skipToContent": "Skip to main content",
+    "sidebarNav": "Main sections navigation",
+    "backToTop": "Back to top"
+  },
+  "services": {
+    "kicker": "What I bring to the table",
+    "title": "Services",
+    "intro": "A set of complementary skills to cover your project end-to-end.",
+    "items": {
+      "fullstack": {
+        "title": "Frontend & Fullstack development",
+        "description": "High-performing interfaces in React and Next.js, building and integrating REST APIs, clean code architecture — from pure frontend to backend when the project needs it."
+      },
+      "wordpress-express": {
+        "title": "Express WordPress",
+        "description": "My specialty: delivering a complete WordPress site — showcase or e-commerce — in 2 days, with SEO optimization built in from the start."
+      },
+      "seo-performance": {
+        "title": "SEO & performance",
+        "description": "On-page optimization, metadata, load times: I build sites designed to rank well and load fast from day one."
+      },
+      "design-marketing": {
+        "title": "Design & digital marketing",
+        "description": "Trained in digital marketing, comfortable with Photoshop, Illustrator and Canva to create consistent visuals and support your project's communication."
+      }
+    }
+  }
+}

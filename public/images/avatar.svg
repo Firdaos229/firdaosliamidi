@@ -1,0 +1,31 @@
+<svg viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="avatarGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3B82F6" />
+      <stop offset="100%" stop-color="#22D3EE" />
+    </linearGradient>
+    <linearGradient id="avatarGrad2" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.55" />
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" fill="#0B1120" />
+  <rect width="400" height="400" fill="url(#avatarGrad2)" />
+  <circle cx="200" cy="160" r="70" fill="url(#avatarGrad)" opacity="0.9" />
+  <path
+    d="M80 360c0-72 54-130 120-130s120 58 120 130"
+    fill="url(#avatarGrad)"
+    opacity="0.9"
+  />
+  <text
+    x="200"
+    y="172"
+    text-anchor="middle"
+    font-family="Space Grotesk, Arial, sans-serif"
+    font-size="46"
+    font-weight="700"
+    fill="#05070D"
+  >
+    CL
+  </text>
+</svg>
