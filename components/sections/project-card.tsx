@@ -7,13 +7,26 @@ import { Badge } from "@/components/ui/badge";
 import { useLanguage } from "@/hooks/use-language";
 
 /** Carte projet réutilisée par le teaser de la home et par la page /projets. */
-export function ProjectCard({ project, onOpen }: { project: ProjectItem; onOpen: () => void }) {
+export function ProjectCard({
+  project,
+  onOpen,
+}: {
+  project: ProjectItem;
+  onOpen: () => void;
+}) {
   const { t } = useLanguage();
   const base = `portfolio.projects.${project.id}`;
 
   return (
-    <button type="button" onClick={onOpen} className="block h-full w-full text-left">
-      <GlassCard interactive className="flex h-full flex-col overflow-hidden p-0">
+    <button
+      type="button"
+      onClick={onOpen}
+      className="block h-full w-full text-left"
+    >
+      <GlassCard
+        interactive
+        className="flex h-full flex-col overflow-hidden p-0"
+      >
         <div className="relative aspect-[16/10] w-full border-b border-border-glow bg-bg-elevated">
           <Image
             src={project.image}
@@ -24,7 +37,9 @@ export function ProjectCard({ project, onOpen }: { project: ProjectItem; onOpen:
           />
         </div>
         <div className="flex flex-1 flex-col p-5">
-          <h3 className="font-display text-lg font-semibold text-fg">{t(`${base}.title`)}</h3>
+          <h3 className="font-display text-lg font-semibold text-fg">
+            {t(`${base}.title`)}
+          </h3>
           <p className="mt-2 line-clamp-3 flex-1 text-sm leading-relaxed text-fg-muted">
             {t(`${base}.description`)}
           </p>

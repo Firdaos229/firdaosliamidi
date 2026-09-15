@@ -95,34 +95,6 @@
     },
     "emptyFiltered": "No project in this category yet.",
     "projects": {
-      "pentestad": {
-        "title": "PentestAD - AVALON SECURE",
-        "description": "Authorized Active Directory pentesting dashboard. Frontend integration, refactoring a Figma-generated UI into a multi-file SOLID architecture with custom hooks and a mock/API fallback.",
-        "highlights": [
-          "Frontend integration from Figma mockups",
-          "Refactored into a multi-file SOLID architecture with custom hooks",
-          "Mock/API toggle to develop without a backend dependency",
-          "Wrote the frontend technical documentation"
-        ]
-      },
-      "guardian": {
-        "title": "Guardian Cyber Labs",
-        "description": "Cybersecurity training platform. Figma design of the public interface and the admin/learner dashboards, with a dark-navy terminal-inspired art direction.",
-        "highlights": [
-          "Figma design of the public interface",
-          "Design of the admin and learner dashboards",
-          "Dark-navy, terminal-inspired art direction"
-        ]
-      },
-      "blueteam": {
-        "title": "Blue Team / SOC Analyst Portfolio",
-        "description": "Next.js 14 site with Notion as a CMS and incremental static regeneration (ISR), dark cyber aesthetic built for a security profile.",
-        "highlights": [
-          "Integrated Notion as a content CMS",
-          "Incremental static regeneration (ISR) for fast, up-to-date pages",
-          "Dark cyber aesthetic tailored to a security profile"
-        ]
-      },
       "hopeful-portfolio": {
         "title": "Portfolio - Hopeful Dossou",
         "description": "Freelance portfolio built in Next.js from the client's provided mockup, with a Notion-connected interface so he can manage his own content.",
@@ -176,10 +148,10 @@
       },
       "dinero": {
         "title": "Dinero Technologies - Redesign",
-        "description": "Redesign of the Dinero Technologies showcase site, an IT services company: the original site was slow and unappealing, rebuilt entirely in Next.js.",
+        "description": "Redesign of the Dinero Technologies showcase site, an IT services company: the original site was slow and unappealing, rebuilt entirely in React.js.",
         "highlights": [
           "Original site was slow and unappealing, rebuilt from scratch",
-          "Built with Next.js for better performance"
+          "Built with React.js for better performance"
         ]
       },
       "seed-billetterie": {
@@ -201,7 +173,7 @@
       },
       "bella-storia": {
         "title": "Bella Storia - Restaurant redesign",
-        "description": "Redesign of the Bella Storia Italian restaurant site (Cannes), with a sober, elegant layout true to the venue's identity.",
+        "description": "Redesign of the Bella Storia Italian restaurant site (Cannes), with a sober, elegant layout true to the venue's identity. Here is the original site: https://www.bellastoria-cannes.fr/",
         "highlights": [
           "WordPress redesign of the Bella Storia Italian restaurant site",
           "Sober, elegant layout consistent with the restaurant's identity"
@@ -314,7 +286,7 @@
   },
   "footer": {
     "rights": "All rights reserved.",
-    "builtWith": "Designed and built with Next.js, TypeScript and Tailwind CSS."
+    "builtWith": ""
   },
   "theme": {
     "toggleToLight": "Switch to light theme",

@@ -21,8 +21,10 @@ export const PROFILE = {
   },
   social: {
     github: "https://github.com/Firdaos229",
-    linkedin: "https://www.linkedin.com/in/firdaos-folachade-liamidi-771329279/",
-    instagram: "https://www.instagram.com/ati_noukee?stkn=MTN1M3N2YjV5bGhiNg%3D%3D&utm_source=qr",
+    linkedin:
+      "https://www.linkedin.com/in/firdaos-folachade-liamidi-771329279/",
+    instagram:
+      "https://www.instagram.com/ati_noukee?stkn=MTN1M3N2YjV5bGhiNg%3D%3D&utm_source=qr",
     // Lien WhatsApp construit à partir du numéro principal (format international, chiffres uniquement).
     whatsapp: `https://wa.me/${PHONE_BENIN.replace(/\D/g, "")}`,
   },
