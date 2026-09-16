@@ -8,7 +8,7 @@ export const PROJECTS: ProjectItem[] = [
     id: "hopeful-portfolio",
     categories: ["frontend", "backend"],
     tags: ["Next.js", "Notion API", "Resend"],
-    image: "/images/project-hopeful-portfolio.png",
+    image: "/images/project-hopeful-portfolio.PNG",
     gallery: ["/images/hopeful_maquette.webp"],
     href: "https://hopeful-dossou-portfolio.vercel.app/",
   },
