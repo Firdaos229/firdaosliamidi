@@ -12,6 +12,5 @@ export const NAV_ITEMS: NavItem[] = [
   { id: "portfolio", icon: "folder", labelKey: "portfolio" },
   { id: "experience", icon: "briefcase", labelKey: "experience" },
   { id: "education", icon: "graduation", labelKey: "education" },
-  { id: "languages", icon: "languages", labelKey: "languages" },
   { id: "contact", icon: "mail", labelKey: "contact" },
 ];
